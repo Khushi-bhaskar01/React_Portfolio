@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Login/Signup of X",
+      "imageSrc": "/log.jpg",
+      "description": "A simple clone of X's authentication system using React and Node.js, built to practice MERN stack fundamentals like JWT auth and form validation.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "Login.mp4",
+      "source": "https://github.com/Khushi-bhaskar01/Login"
+    }
+  ]
